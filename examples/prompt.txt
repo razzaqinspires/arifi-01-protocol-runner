@@ -1,0 +1,1 @@
+Buat fungsi Python sederhana yang menampilkan "Halo, Dunia!".

@@ -1,0 +1,5 @@
+name: HaloWorld
+language: python
+requirements:
+  - Fungsi bernama halo()
+  - Output string "Halo, Dunia!"
