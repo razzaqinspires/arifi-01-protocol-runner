@@ -1,0 +1,6 @@
+Buat implementasi kalkulator dalam bahasa JavaScript.
+Fitur:
+- operasi tambah, kurang, kali, bagi
+- fungsi applyDiscount(amount, discountPercent) yang mengaplikasikan diskon
+- validasi input
+- contoh penggunaan

@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arifi-01-protocol-runner"
+version = "0.1.0"
+description = "Implementasi PROTOKOL FONDASI: MATRIKS KETERIKATAN Arifi-01"
+readme = "README.md"
+authors = [
+  { name="Dr. Profesor Arifi Razzaq", email="support@razzaq.dev" }
+]
+license = {text = "MIT"}
+dependencies = [
+  "flake8",
+  "mypy",
+  "radon"
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/razzaqinspires/arifi-01-protocol-runner"
+Source = "https://github.com/razzaqinspires/arifi-01-protocol-runner"
+Donate = "https://saweria.co/arzzq"

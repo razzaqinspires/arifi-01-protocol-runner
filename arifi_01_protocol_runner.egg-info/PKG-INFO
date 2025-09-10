@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: arifi-01-protocol-runner
+Version: 0.1.0
+Summary: Implementasi PROTOKOL FONDASI: MATRIKS KETERIKATAN Arifi-01
+Author-email: "Dr. Profesor Arifi Razzaq" <support@razzaq.dev>
+License: MIT
+Project-URL: Homepage, https://github.com/razzaqinspires/arifi-01-protocol-runner
+Project-URL: Source, https://github.com/razzaqinspires/arifi-01-protocol-runner
+Project-URL: Donate, https://saweria.co/arzzq
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: flake8
+Requires-Dist: mypy
+Requires-Dist: radon
+
+# 🚀 Arifi-01 Protocol Runner
+
+Implementasi lokal dari PROTOKOL FONDASI: MATRIKS KETERIKATAN Arifi-01
